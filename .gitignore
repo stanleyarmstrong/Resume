@@ -1,1 +1,15 @@
 *.log
+
+*.aux
+*.fls
+*.fdb_latexmk
+*.fdb_latexmk.log
+*.fdb_latexmk.aux
+*.fdb_latexmk.fls
+*.fdb_latexmk.log
+*.fdb_latexmk.aux
+*.fdb_latexmk.fls
+*.fdb_latexmk.log
+*.fdb_latexmk.aux
+*.fdb_latexmk.fls
+*.synctex.gz
